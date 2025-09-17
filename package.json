@@ -1,5 +1,5 @@
 {
-    "name": "g2-reviews-actor",
+    "name": "g-reviews-actor",
     "version": "1.0.0",
     "description": "Apify Actor for scraping G2 reviews for a company.",
     "main": "main.js",
